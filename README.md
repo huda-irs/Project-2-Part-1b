@@ -10,3 +10,8 @@ As a administrator, I send a lot of emails to many individuals and groups. I wan
 ## How it works
 
 ![Program Blck diagram](https://github.com/huda-irs/Project-2-Part-1b/blob/master/Proj_diagram.png)
+
+## Important Note:
+When retrieving json file project created, if this project were to be further modified to export data or important data from another one of Google Cloud APIs then the scopes will have to added accordingly.
+
+## Possible Future Work:
