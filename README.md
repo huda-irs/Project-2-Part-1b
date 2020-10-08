@@ -24,3 +24,5 @@ When retrieving json file project created, if this project were to be further mo
 Be sure to import all libraries that are not already imported into Google Cloud Shell
 
 ## Possible Future Work:
+-[ ] incorporate magnitude score to get a greater understanding of the impact of emotion of each sentence to the overall text
+-[ ] ask the user what the desired overall emotional level is wanted and list the sentenes that achieve that so those do not get tweeked by the user
