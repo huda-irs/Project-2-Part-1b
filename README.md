@@ -8,3 +8,5 @@ As a administrator, I send a lot of emails to many individuals and groups. I wan
 4. clone this github and fill in the required fields (json file)
 
 ## How it works
+
+![Program Blck diagram](https://github.com/huda-irs/Project-2-Part-1b/blob/master/Proj_diagram.png)
